@@ -184,4 +184,12 @@ description: Reverts changes introduced by other forge commands.
 artifact: org.jboss.undo.forge:plugin-undo:1.0.2-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-undo.git
 tags: undo, git, jgit
+---
+name: jacoco
+author: Tomas Remes <tomas.remes@gmail.com>
+website: https://github.com/forge/plugin-jacoco
+description:  This plugin provides installing, running and reporting code coverage with JaCoCo.
+artifact: org.jboss.forge.jacoco:plugin-jacoco:1.0.0-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-jacoco.git
+tags: jacoco, code coverage, java, testing
 
